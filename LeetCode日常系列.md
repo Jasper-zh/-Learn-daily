@@ -73,36 +73,36 @@
 [278 第一个错误版本](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485229&idx=1&sn=bfa8f59c4e5d5bd6f3093d1058bef1e0&chksm=feadfd1ac9da740ce159c3cf8e684b104fc3af260d247d7825c744052885e8ef617f27689e2a&token=80439585&lang=zh_CN#rd)
 
 #### 动态规划
-[爬楼梯]()
+[爬楼梯](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485529&idx=1&sn=717cc3699cda87df47197a51660c8628&chksm=feadf26ec9da7b7874195afc6f68d70de2160f4859ab59fece4feb7ed3d74a3f26e54903f60e&token=1450670831&lang=zh_CN#rd)
 
-[买卖股票的最佳时机]()
+[买卖股票的最佳时机](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485563&idx=1&sn=1e50fbe2369c4ae63817f5f386fe17d2&chksm=feadf24cc9da7b5a51217dd1431dcef9b219e510180a65f178e10fe2b7e1311ab37f3af8b0d3&token=1450670831&lang=zh_CN#rd)
 
-[最大子序和]()
+[最大子序和](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485586&idx=1&sn=10c87142c7c23068b626c510bd71d99c&chksm=feadf2a5c9da7bb3e7432d52932d2ee8a153d5ddb58c73c64af2334e9c2eaa3fe66560fbbf1e&token=1450670831&lang=zh_CN#rd)
 
-[打家劫舍]()
+[打家劫舍](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485599&idx=1&sn=d3c57474c032fcd0b2d017feb32822bb&chksm=feadf2a8c9da7bbe8a1babe75fa3902ee22daff0732e2354e219ceec5b169faf1ee1f9499206&token=1450670831&lang=zh_CN#rd)
 
 #### 设计问题
-[打乱数组]()
+[打乱数组](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485612&idx=1&sn=db893b886fa4cada21dcb3a515b8ad2a&chksm=feadf29bc9da7b8d02d0e388563a512230a1a8eec75369843c571accdf15ef9da91bfa04b950&token=1450670831&lang=zh_CN#rd)
 
-[最小栈]()
+[最小栈](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485627&idx=1&sn=92fc759e28facee3184b7f775c24dff5&chksm=feadf28cc9da7b9acd201fb2fa8925cfe8953b74b440d851a72dbd79b4ccae5fe9d42585e1e0&token=1450670831&lang=zh_CN#rd)
 
 #### 数学
-[Fizz Buzz]()
+[Fizz Buzz](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485678&idx=1&sn=2e9ecdb79ecdae22e4f4a88ab8828ff0&chksm=feadf2d9c9da7bcfdfe9fd05837fff1b3feb49db9a74fba66f3a8579d23cfe92c26543ec6e8a&token=1450670831&lang=zh_CN#rd)
 
-[计数质数]()
+[计数质数](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485742&idx=1&sn=95694f469da75eceda6681151068194f&chksm=feadf319c9da7a0f780c81ea100bc0732589ff38b6a28a3701fc3fc830b4775f7c2d6396bffa&token=1450670831&lang=zh_CN#rd)
 
-[3的幂]()
+[3的幂](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485780&idx=1&sn=d9872628606db45fd5273c9227d1b101&chksm=feadf363c9da7a759f1f4429bc3552f9ce2767b8f1d9f762e6c13df4a5af9eeae4c793f3496d&token=1450670831&lang=zh_CN#rd)
 
-[罗马数字]()
+[罗马数字](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485796&idx=1&sn=c957055cfeb01219953c247f18680da2&chksm=feadf353c9da7a45bbf2ce39a49a893d59b9be48d556a6c8bcdf1311486a9dce3ac60334f08e&token=1450670831&lang=zh_CN#rd)
 
 #### 其他
-[位1的个数]()
+[位1的个数](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247485830&idx=1&sn=1162ba925d8f925f45eac24921239d7d&chksm=feadf3b1c9da7aa7a5e0100d30eb683f6c35deab51158430558815c8ab5dab7897d0ad64fc8f&token=1450670831&lang=zh_CN#rd)
 
-[汉明距离]()
+[汉明距离](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247486036&idx=1&sn=9ef3883a317c6c8f4138f842b5858c97&chksm=feadf063c9da79751779b899fa9927b951e475476b3019cc96b1f3fa65a8cdcf80af3dbb225f&token=1450670831&lang=zh_CN#rd)
 
-[颠倒二进制位]()
+[颠倒二进制位](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247486155&idx=1&sn=e25a76e5f678c6f42b73ca9416367116&chksm=feadf0fcc9da79eaa9d49ac61d46bd47a0e833261cfa0fdd9424dfaa845c5989fbd0bc8d7456&token=1450670831&lang=zh_CN#rd)
 
-[杨辉三角]()
+[杨辉三角](https://mp.weixin.qq.com/s?__biz=MzU5OTk3NzgxNg==&mid=2247486188&idx=1&sn=c7db1a100c36980433cc2ef3df3a03fd&chksm=feadf0dbc9da79cd373149607e247c1709899cdb5142e448bedb4fa9c764fb81d57708bd1c9d&token=1450670831&lang=zh_CN#rd)
 
 [有效的括号]()
 
